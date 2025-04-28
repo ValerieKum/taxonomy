@@ -47,6 +47,6 @@ document_outline: |
 
 document:
   repo: git@github.com:ValerieKum/taxonomy.git
-  commit: 
+  commit: 2289a23c92be9520012a0b5812ada59467d4d2c1
   patterns:
     - swifties.md
