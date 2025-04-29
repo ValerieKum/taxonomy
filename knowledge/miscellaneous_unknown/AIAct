@@ -46,7 +46,7 @@ document_outline: |
   Overview of the EU Artificial Intelligence Act and key AI regulatory frameworks in Asia, including South Korea's AI Framework Act and China's generative AI regulations. The document covers risk classifications, compliance obligations, ethical considerations, and enforcement mechanisms.
 
 document:
-  repo: git@github.com:ValerieKum/taxonomy.git
+  repo: https://github.com/ValerieKum/taxonomy
   commit: 2289a23c92be9520012a0b5812ada59467d4d2c1
   patterns:
     - aiact.md
